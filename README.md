@@ -13,6 +13,7 @@ O NotebookLM foi utilizado para **criar uma IA especializada na criação de jog
 
 ## 🚀 Resultado
 O resultado foi a construção de uma **IA especializada na dinâmica do mercado de games**, com ênfase em:
-- As novidades atuais  
+- As novidades atuais e jogos indie  
 - As principais tendências para jogos digitais  
 - A forma como a **Inteligência Artificial está mudando a dinâmica do mercado de games**, trazendo novas possibilidades de criação, inovação e competitividade.  
+- vide IA: https://notebooklm.google.com/notebook/8eb9a022-199d-46f2-8c5a-f4f35241089e
